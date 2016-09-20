@@ -1,3 +1,5 @@
+#Participant in this project
+
 # 2nd year Project
 # Eddy Ekofo - X00119959
 # Graham Lalor - X00122026
